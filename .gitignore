@@ -1,0 +1,52 @@
+# === ARCHIVOS DE COMPILACIÓN ===
+*.class
+*.jar
+*.war
+*.ear
+
+# === CARPETAS DE COMPILACIÓN ===
+bin/
+target/
+out/
+
+# === ARCHIVOS DE LOG Y TEMPORALES ===
+*.log
+*.tmp
+*.swp
+*.DS_Store
+*.bak
+
+# === IDEs ===
+
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# NetBeans
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
+
+# VS Code
+.vscode/
+
+# === SISTEMA OPERATIVO ===
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# === OTROS ===
+*.gz
+*.zip
+*.tar
+*.7z
+*.rar
+
