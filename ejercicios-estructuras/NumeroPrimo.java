@@ -1,3 +1,4 @@
+//Todos los numeros primos entra 1 y 100
 public class NumeroPrimo{
     public static void main(String[] args) {
         
